@@ -1,0 +1,9 @@
+﻿bin/
+obj/
+.vs/
+App/
+*.user
+*.suo
+*.exe
+*.lnk
+*.pdb

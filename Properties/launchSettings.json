@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "LlamaCppLauncher (Package)": {
+      "commandName": "MsixPackage"
+    },
+    "LlamaCppLauncher (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}
